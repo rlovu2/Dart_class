@@ -1,0 +1,87 @@
+1. NetKeeper를 대표 명으로 해서 각 서브 모듈을
+
+ㅇ Net Adapter(NA) - 연동
+ㅇ Net Monitor(NM) - 장애 및 상태 모니터링
+ㅇ Net Sounder(NS) - TT/Sound/QoS
+ㅇ Net Analyzer(NR) - 보고서
+ㅇ Net Tracker(NT) - 백홀 진단
+
+2. BAND
+ㅇ Backhaul(Network) Auto-Diagnosis & Optimization Solution
+
+3. NS Manager - 너무 보편적인 용어라 상표 등록이 안 된다 합니다.
+
+4. TOMAS (TOtal Managemet & Analysis System)
+ㅇ Net Adapter(NA) - 연동
+ㅇ Net Monitor(NM) - 장애 및 상태 모니터링
+ㅇ Net Sounder(NS) - TT/Sound/QoS
+ㅇ Net Analyzer(NR) - 보고서
+ㅇ Net Tracker(NT) - 백홀 진단
+
+5. NADOS (Network monitoring & Auto-Diagnosis & Optimization Solution)anager - 
+
+
+(통합) 네트워크 감시 관리 솔루션,
+(Integrated)  Network Observation & Management Solution(NOMS, 놈스, INOMS 아이놈스)
+
+상품명 : 네트워크 인공지능 관제 솔루션 
+
+* 작명 기본구조 : (Head) A인공지능 + (Body) ***  + (Tail) S솔루션
+
+1) AICOS : A인공지능I통합네트워크C관제O감시S솔루션 (아이코스)
+             Artificial Integrated-network Control & Observation Solution
+2) AINOS : A인공지능I통합N네트워크O감시S솔루션 (아이노스)
+             Artificial Integrated Network Observation Solution
+3) AINOCS : A인공지능I통합N네트워크O감시C관제S솔루션 (아이녹스)
+               Artificial Integrated Network Observation & Control Solution
+4) AIDOS : A인공지능I통합네트워크D진단O감시S솔루션 (아이도스)
+             Artificial Integrated-network Diagnosis & Observation Solution
+5) AIMOS : A인공지능I통합네트워크M관리O감시S솔루션 (아이모스)
+             Artificial Integrated-network Management & Observation Solution
+6) AINDOS : A인공지능I통합N네트워크D진단O감시S솔루션 (아인도스)
+             Artificial Integrated Network Diagnosis & Observation Solution
+
+
+
+                           
+
+<NETWORK>
+- 인공지능 AI
+- 관리 MANAGEMENT 
+- 진단 DIAGNOSIS
+- 제어 CONTROL
+- 감시 MONITORING, SURVEILANCE 
+
+
+조합 또는 특정 단어 가능
+
+
+
+
+
+SaaS(Software as a Service) 구글 앱스, 세일즈포스닷컴, MS오피스 365, 드롭박스, CRM, 넷피스(한컴), 폴라리스 오피스(인프라웨어), 스토리지 서비스 등
+IaaS(Infrastructure as a Service) 클라우드 데이터센터(AWS, KT, LG 등),  넷플릭스, 
+PaaS(Platform as a Service), 소프트웨어 개발지원 플랫폼, 세일즈포스닷컴, 구글앱엔진 등
+
+
+- 엑셈 - 
+InterMax (어플리케이션 성능관리 통합 솔루션)
+
+https://www.youtube.com/watch?v=e1ZPHoG79fE 
+https://www.youtube.com/watch?v=H1JZJihFnZk
+
+MaxGauge (데이터베이스 성능관리 솔루션)
+https://youtu.be/Nj7p_Kubeww
+
+Flamingo (빅데이터 통합분석 및 성능관리 솔루션)
+https://youtu.be/TcWo6B61QJY
+
+InterMax Cloud (AI 기반 클라우드 통합 관제 솔루션)
+https://youtu.be/r5MF9IP6A80
+
+AIOps (AI기반 IT운영 지능화 솔루션)
+https://youtu.be/QJm8S7R-jzE
+
+- 셀파소프트 - 
+https://youtu.be/tqJ4jmqg6O8
+
